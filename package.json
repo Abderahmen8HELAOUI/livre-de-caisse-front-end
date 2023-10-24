@@ -1,6 +1,10 @@
 {
   "name": "livre-de-caisse-front-end",
   "version": "0.0.0",
+  "engines": {
+    "node": "16.14.2",
+    "npm": "9.8.1"
+  },
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
